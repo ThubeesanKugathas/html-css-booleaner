@@ -16,6 +16,15 @@ h1 {
     margin: 0px;
  }
 
+ .tim-uno{
+     width: 450px;
+     height: 300px;
+ }
+
+ .tim-due{
+    width: 450px;
+    height: 300px;
+}
  
 .azzurro{
     color: rgb(7, 57, 122);
