@@ -1,0 +1,40 @@
+body{
+    width: 1000px;
+}
+
+h1 {
+    margin-bottom: 0%;
+}
+
+
+/* header */
+ .info-foto{
+    font-size: 10px;
+    margin: 0px;
+ }
+
+
+
+
+/* main */
+
+main {
+    font-size: 15px;
+}
+
+.lista {
+    padding-left: 1%;
+}
+
+.thead {
+    background-color: rgb(26, 86, 175);
+    color: white;
+}
+
+.tbody {
+    background-color: turquoise;
+}
+
+.giallo {
+    background-color: yellow;
+}
