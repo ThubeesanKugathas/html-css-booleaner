@@ -34,7 +34,7 @@ h1 {
 
 .pattern {
     position: relative;
-    background: url(../img/pattern.png) #719eb3 ;
+    background: url(../img/pattern.png) #4ea0ff ;
     background-size: 300px;
     height: 100px;
 }
@@ -53,20 +53,28 @@ main {
 }
 
 .lista {
-    padding-left: 1%;
+    padding-left: 15px;
 }
 
+
+
 .thead {
-    background-color: rgb(26, 86, 175);
+    background-color: #20a9e5;
     color: white;
 }
 
 .tbody {
-    background-color: turquoise;
+    background-color: #b1e5f2;
 }
 
 table {
     border-spacing: 0px;
+    width: 100%;
+    text-align: left;
+}
+
+.th {
+    width: 500px;
 }
 
 .giallo {
